@@ -1,1 +1,73 @@
+🚀 AWS Free Tier Account Setup Guide
+📌 Overview
 
+This guide explains how to create an AWS Free Tier account step by step.
+Perfect for students, developers, and beginners exploring cloud computing.
+
+🧰 Prerequisites
+📧 Valid email address
+📱 Mobile phone number
+💳 Credit/Debit card (for verification)
+🌐 Internet connection
+🗺️ Setup Workflow
+flowchart TD
+    A[Open AWS Free Tier Page] --> B[Enter Account Details]
+    B --> C[Select Account Type]
+    C --> D[Add Payment Method]
+    D --> E[Verify Identity]
+    E --> F[Choose Support Plan]
+    F --> G[Account Activated]
+    G --> H[Login to AWS Console]
+🧾 Step-by-Step Procedure
+1️⃣ Open AWS Free Tier Page
+
+🔗 https://aws.amazon.com/free/
+Click on Create a Free Account
+
+2️⃣ Enter Account Details
+Email address
+Password
+AWS account name
+3️⃣ Select Account Type
+👤 Personal (recommended)
+🏢 Professional
+
+Fill in:
+
+Full name
+Address
+Phone number
+4️⃣ Add Payment Method
+💳 Enter card details
+🔄 Small temporary charge may apply (refundable)
+5️⃣ Verify Identity
+📱 Enter phone number
+🔐 Receive OTP (SMS/Call)
+✅ Enter verification code
+6️⃣ Choose Support Plan
+🆓 Select Basic Support (Free)
+7️⃣ Complete Registration
+⏳ Wait for activation (few minutes)
+🔐 Access AWS Console
+
+🔗 https://console.aws.amazon.com/
+
+Login using your credentials.
+
+💡 Important Notes
+⚠️ Free Tier has usage limits
+📊 Monitor via AWS Billing Dashboard
+🔔 Enable billing alerts
+🛡️ Security Best Practices
+🔒 Enable MFA (Multi-Factor Authentication)
+👥 Create IAM user (avoid using root account)
+💰 Configure budget alerts
+📎 Quick Summary
+Step	Action
+1	Open AWS Free Tier
+2	Enter details
+3	Select account type
+4	Add payment
+5	Verify identity
+6	Choose support plan
+7	Login to console
